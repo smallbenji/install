@@ -1,0 +1,5 @@
+chrome://flags/#smooth-scrolling
+chrome://flags/#terminal-system-app
+chrome://flags/#system-tray-mic-gain
+chrome://flags/#crostini-usb-allow-unsupported
+chrome://flags/#files-ng
