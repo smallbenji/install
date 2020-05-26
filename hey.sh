@@ -13,4 +13,7 @@ sudo rm code_1.45.1-1589445302_amd64.deb
 sudo apt-get update
 sudo apt update
 yes | sudo apt upgrade
+git config --global credential.helper store
+git config --global user.email "benj8114@fmkskole.dk"
+git config --global user.name "smallbenji"
 echo DONE
