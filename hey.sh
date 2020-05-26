@@ -16,4 +16,7 @@ yes | sudo apt upgrade
 git config --global credential.helper store
 git config --global user.email "benj8114@fmkskole.dk"
 git config --global user.name "smallbenji"
+cp ./flags.txt -r ./../
+cd ..
+sudo rm -r ./install
 echo DONE
